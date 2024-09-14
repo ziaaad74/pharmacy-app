@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Panadol",
+      "price": "80",
+      "description": "Pain reliever"
+    },
+    {
+      "id": "2",
+      "name": "Aspirin",
+      "price": "60",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "3",
+      "name": "acapril",
+      "price": "70",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "4",
+      "name": "abstain",
+      "price": "170",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "5",
+      "name": "acanthaprop",
+      "price": "450",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "6",
+      "name": "acavio",
+      "price": "150",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "7",
+      "name": "aceczema",
+      "price": "120",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "8",
+      "name": "actifast",
+      "price": "80",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "9",
+      "name": "acupan",
+      "price": "90",
+      "description": "Anti-inflammatory"
+    },
+    {
+      "id": "10",
+      "name": "acapril",
+      "price": "40",
+      "description": "Anti-inflammatory"
+    }
+  ]
+}
